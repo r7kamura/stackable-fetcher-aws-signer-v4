@@ -2,6 +2,11 @@
 A [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher) middleware
 for signing requests with AWS Signature v4.
 
+## Install
+```
+npm install --save stackable-fetcher-aws-signer-v4
+```
+
 ## Usage
 ```js
 // Create a new Fetcher instance
