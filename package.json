@@ -1,0 +1,7 @@
+{
+  "license": "MIT",
+  "main": "index.js",
+  "name": "stackable-fetcher-aws-signer-v4",
+  "repository": "r7kamura/stackable-fetcher-aws-signer-v4",
+  "version": "0.0.1"
+}
